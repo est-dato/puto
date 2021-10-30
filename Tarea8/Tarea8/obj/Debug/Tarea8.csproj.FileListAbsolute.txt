@@ -1,0 +1,6 @@
+C:\Users\ariel\Documents\C#\Tarea8\Tarea8\bin\Debug\Tarea8.exe.config
+C:\Users\ariel\Documents\C#\Tarea8\Tarea8\bin\Debug\Tarea8.exe
+C:\Users\ariel\Documents\C#\Tarea8\Tarea8\bin\Debug\Tarea8.pdb
+C:\Users\ariel\Documents\C#\Tarea8\Tarea8\obj\Debug\Tarea8.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Documents\C#\Tarea8\Tarea8\obj\Debug\Tarea8.exe
+C:\Users\ariel\Documents\C#\Tarea8\Tarea8\obj\Debug\Tarea8.pdb

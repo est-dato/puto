@@ -1,0 +1,7 @@
+C:\Users\ariel\Documents\C#\Tarea10\Tarea10\obj\Debug\Tarea10.csproj.AssemblyReference.cache
+C:\Users\ariel\Documents\C#\Tarea10\Tarea10\obj\Debug\Tarea10.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Documents\C#\Tarea10\Tarea10\bin\Debug\Tarea10.exe.config
+C:\Users\ariel\Documents\C#\Tarea10\Tarea10\bin\Debug\Tarea10.exe
+C:\Users\ariel\Documents\C#\Tarea10\Tarea10\bin\Debug\Tarea10.pdb
+C:\Users\ariel\Documents\C#\Tarea10\Tarea10\obj\Debug\Tarea10.exe
+C:\Users\ariel\Documents\C#\Tarea10\Tarea10\obj\Debug\Tarea10.pdb
